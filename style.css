@@ -1,0 +1,26 @@
+.links{float: right;}
+.links a{text-decoration: none;}
+.hedear{font-size: 5rem;
+padding: 0.5em 1em;}
+.contactlinks{
+    float:right}
+.landing{height: 600px;
+background-color: rgb(52, 40, 90);
+margin-top: 50px;}
+.portfolio{height: 100px;
+background-color: rgb(50, 50, 113);}
+.mainportfolio{
+    background-color: rgb(96, 49, 103)
+    ;
+    height: 300px;
+    
+}
+.childportfolio{
+    display:flex;
+    width: 700px;
+    height: 200px;
+    margin-top: 10px;
+    background-color: rgb(48, 25, 70);
+}
+.footer{height: 50px;
+background-color: dimgray;}
