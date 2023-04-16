@@ -1,4 +1,7 @@
-.links{float: right;}
+.links {
+    float: right;
+}
+
 .links a{text-decoration: none;}
 .hedear{font-size: 5rem;
 padding: 0.5em 1em;}
